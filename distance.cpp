@@ -1,4 +1,5 @@
 #include <iostream>
+
 using namespace std;
 
 int main() {
@@ -11,5 +12,6 @@ int main() {
 	minutes = 2*distance;
 	
 	cout<<minutes <<" minutos\n";
+	
 	return 0;
 }
